@@ -1,3 +1,3 @@
 # E_Commerce_CSharp
 
->MVC5
+>MVC5,Code First
