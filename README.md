@@ -2,4 +2,8 @@
 
 >MVC5,Code First,Api
 
+Model,View Controller nedir?
+
+
+
 
