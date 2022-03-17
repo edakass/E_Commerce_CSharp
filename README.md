@@ -4,6 +4,8 @@
 
 Model,View Controller nedir?
 
+Code First nedir
+
 
 
 
