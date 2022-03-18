@@ -4,7 +4,9 @@
 
 Model,View Controller nedir?
 
-Code First nedir
+Code First nedir?
+
+Shared dosyası nedir?
 
 
 
