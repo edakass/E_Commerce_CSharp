@@ -8,7 +8,15 @@ Code First nedir?
 
 Shared dosyası nedir?
 
-Kısıtlamalar nedir? ->    [Column(TypeName="Varchar")]
+Kısıtlamalar nedir? ->    
+
+[Column(TypeName="Varchar")]
+
+[StringLength(30)]
+
+-Entity Framework paketinin yüklenmesi gerekiyor,entity i yükledikten sonra projeye baktığımızda artık entity referansları olacak
+
+
 
 
 
