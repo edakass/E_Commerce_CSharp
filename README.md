@@ -45,3 +45,31 @@ new connection -->
   
   
   burada db mizi yazmış olduk
+  
+  
+  Migration nedir?
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
