@@ -18,6 +18,10 @@ Kısıtlamalar nedir? ->
 
 
 
+-Web.config dosyasının içinde veritabanı birleştirme işlmelerimizi yapacağız.
+bağlantı otomatik olmadığı için,çünkü code first ile yazdığım için.elle girmemiz gerekiyor.
+
+
 
 
 
