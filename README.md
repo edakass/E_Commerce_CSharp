@@ -32,10 +32,15 @@ new connection -->
 
 
   <connectionStrings>
+ 
     <add name="Context" connectionString="data source=EDA;
+                                          
          initial catalog=eComDb;
+                                          
          integrated security=True;"  
+         
          providerName="System.Data.SqlClient"/>
+ 
   </connectionStrings>
   
   
