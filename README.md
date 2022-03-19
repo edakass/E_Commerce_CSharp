@@ -8,7 +8,7 @@ Code First nedir?
 
 Shared dosyası nedir?
 
-
+Kısıtlamalar nedir? ->    [Column(TypeName="Varchar")]
 
 
 
