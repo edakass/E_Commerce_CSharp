@@ -49,7 +49,12 @@ new connection -->
   
   Migration nedir?
   
-  
+  Migration için,
+View ->Other Windows->Package Manager Console->
+ enable-migrations
+
+
+eklendikten sonra
   
   
   
