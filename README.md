@@ -79,7 +79,8 @@ Db min adı eComDb.
 console kısmına yapmış olduğum değişiklik için 
 
 update-database -Force
- gerekiyor.
+ gerekiyor. 
+force ın amacı güncellemek istiyor musun,emin misin gibi
   
   
   
