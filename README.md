@@ -84,7 +84,7 @@ force ın amacı güncellemek istiyor musun,emin misin gibi
   
   
   
-  
+controller dediğimiz kısım backend kısmımız
   
   
   
