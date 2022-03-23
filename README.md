@@ -87,7 +87,10 @@ force ın amacı güncellemek istiyor musun,emin misin gibi
 controller dediğimiz kısım backend kısmımız
   
   
-  
+ 
+  <div>
+        @RenderBody() //bu kısım sayfada değişecek kısım
+    </div> 
   
   
   
