@@ -54,9 +54,28 @@ View ->Other Windows->Package Manager Console->
  enable-migrations
 
 
+
 eklendikten sonra
   
   
+  eklendikten sonra Configuration.cs de 
+
+ public Configuration()
+        {
+            AutomaticMigrationsEnabled = false;
+        }
+
+olan false kısmı true olacak.true ya çevirdiğimizde veritabanındaki değişiklikleri yansıtacağız.
+
+
+-package manager console kısmına
+>update-database
+
+ve değişiklikler kaydedildi.
+
+Db min adı eComDb.
+
+
   
   
   
