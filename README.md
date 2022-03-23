@@ -76,6 +76,10 @@ ve değişiklikler kaydedildi.
 Db min adı eComDb.
 
 
+console kısmına yapmış olduğum değişiklik için 
+
+update-database -Force
+ gerekiyor.
   
   
   
