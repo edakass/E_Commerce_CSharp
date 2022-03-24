@@ -94,7 +94,7 @@ controller dediğimiz kısım backend kısmımız
   
   
   
-  
+  ctrla ve ctrl c ile her yeri seçiyoruz
   
   
   
